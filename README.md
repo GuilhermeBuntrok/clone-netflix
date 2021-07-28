@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido com seguintes recursos:
 * Javascript
 * Html
 * Css
-*Jquery
+* Jquery
 
 💻 Projeto
 
